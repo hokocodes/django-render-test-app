@@ -1,0 +1,2 @@
+# django render test app
+ 
